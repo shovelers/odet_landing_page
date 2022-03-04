@@ -3,7 +3,6 @@ google_analytics:
 title: Your site title
 description: Your site description
 
-baseurl: "/odet_landing_page"
 plugins:
   - jekyll-seo-tag
 
