@@ -3,12 +3,11 @@ google_analytics:
 title: Your site title
 description: Your site description
 
+baseurl: "/odet_landing_page"
 plugins:
   - jekyll-seo-tag
 
 exclude: [
-  styles/index.css,
-  styles/syntax.css,
   package.json,
   package-lock.json,
   postcss.config.js,
