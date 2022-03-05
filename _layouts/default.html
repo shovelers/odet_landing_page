@@ -6,8 +6,10 @@
 </head>
 
 <body class="antialiased bg-gray-400 min-h-screen">
-    {{ content }}
+  {{ content }}
+  {% if jekyll.environment == 'production' %}
     {% include scripts.html %}
+  {% endif %}
 </body>
 
 </html>
