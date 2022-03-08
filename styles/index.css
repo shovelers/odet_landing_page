@@ -37,7 +37,8 @@
 
     .blue-blob {
       background-image:
-        radial-gradient(at 82% 65%, hsl(197.84, 63%, 58%) 0, transparent 55%)
+        radial-gradient(at 82% 65%, hsl(197.84, 63%, 58%) 0, transparent 55%),
+        radial-gradient(at 35% 40%, hsl(272.73, 54%, 65%) 0, transparent 59%);
     }
 
     .purple-blob {
