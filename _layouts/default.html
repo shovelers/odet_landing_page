@@ -1,17 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-
-<head>
+  <head>
     {% include head.html %}
-</head>
-
-<body class="antialiased min-h-screen bg-gray-900">
-  {{ content }}
-  {% if jekyll.environment == 'production' %}
-    {% include scripts.html %}
-  {% endif %}
-
-  {% include footer.html %}
-</body>
-
+  </head>
+  <body class="antialiased min-h-screen bg-gray-900">
+    {{ content }}
+    {% include footer.html %}
+  </body>
 </html>
