@@ -15,7 +15,7 @@ backLink: false
   </div>
 </div>
 
-<div class="grid min-h-screen blue-blob text-gray-300 p-6 md:p-8 lg:p-16">
+<div class="grid min-h-screen blue-blob text-gray-300 p-6 md:p-8 lg:p-16 place-content-evenly">
   <div class="flex flex-col md:flex-row">
     <div class="card grid grid-rows-3 h-64 text-center m-4 p-4 md:p-4 lg:p-8 md:w-1/2">
       <p class="text-lg md:text-2xl lg:text-2xl font-bold">Hit Inbox-Zero </p>
