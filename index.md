@@ -19,13 +19,13 @@ backLink: false
   <div class="flex flex-col md:flex-row">
     <div class="card grid grid-rows-3 h-64 text-center m-4 p-4 md:p-4 lg:p-8 md:w-1/2">
       <p class="text-lg md:text-2xl lg:text-2xl font-bold">Hit Inbox-Zero </p>
-      <p class="text-sm md:text-base lg:text-lg row-span-2">Designed to help you breeze through alerts
+      <p class="text-sm md:text-base lg:text-lg row-span-2">Breeze through alerts
       without missing critical information using the <span class="font-bold">Aggregate View & Split
       Inboxes</span></p>
     </div>
     <div class="card grid grid-rows-3 h-64 text-center m-4 p-4 md:p-4 lg:p-8 md:w-1/2">
       <p class="text-lg md:text-2xl lg:text-2xl font-bold">Lightning Fast</p>
-      <p class="text-sm md:text-base lg:text-lg row-span-2">Stop getting caught in the cobweb of monitoring tools for alert managment using intuitive keybinding & In-Place alert editing & creation across tools</p>
+      <p class="text-sm md:text-base lg:text-lg row-span-2">Escape the cobweb of monitoring tools for Alert managment using <span>Intuitive Keybindings & In-Place Alert Modification</span> across tools</p>
     </div>
   </div>
 
