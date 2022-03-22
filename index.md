@@ -8,7 +8,7 @@ backLink: false
 <nav class="bg-transparent border-gray-200 px-8 sm:px-4 py-2.5 rounded dark:bg-gray-800 w-screen">
   <div class="container flex flex-wrap justify-between items-center mx-auto">
     <a href="https://odet.app" class="flex items-center">
-      <img src="/assets/odet_logo.png" class="h-6 sm:h-9" alt="Odet Logo" />
+      <img src="/assets/odet_logo.svg" class="h-6 sm:h-9" alt="Odet Logo" />
     </a>
     <div class="flex md:order-2">
       <button type="button" class="text-white bg-gray-700 hover:bg-gray-900 focus:ring-2 focus:outline-none focus:ring-blue-500 font-medium rounded-lg text-sm px-5 py-2.5 text-center md:mr-0">Get started</button>
