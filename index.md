@@ -5,11 +5,12 @@ backLink: false
 
 <div class="grid h-screen grid-cols-10 grid-rows-4 font-sans bg-cover bg-center" style="background-image: url('https://images.unsplash.com/photo-1519681393784-d120267933ba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1124&q=100')">
 
-<nav class="bg-transparent border-gray-200 px-8 sm:px-4 py-2.5 rounded dark:bg-gray-800 w-screen">
+<nav class="bg-transparent border-gray-200 px-4 md:px-10 py-2.5 rounded dark:bg-gray-800 w-screen">
   <div class="container flex flex-wrap justify-between items-center mx-auto">
-    <a href="#" class="flex items-center">
-      <img src="/assets/odet_logo.svg" class="h-6 sm:h-9" alt="Odet Logo" />
-    </a>
+    <div class="flex flex-row items-center">
+      <a href="#" class="flex items-center"><img src="/assets/odet_logo.svg" class="h-6 sm:h-9" alt="Odet Logo" /></a>
+      <button type="button" class="text-white bg-gray-900 font-normal rounded-lg text-xs px-2 text-center md:mr-0 h-5 md:h-6">Alpha</button>
+    </div>
     <div class="flex md:order-2">
       <button type="button" class="text-white bg-gray-700 hover:bg-gray-900 focus:ring-2 focus:outline-none focus:ring-blue-500 font-medium rounded-lg text-sm px-5 py-2.5 text-center md:mr-0">Coming Soon</button>
     </div>
