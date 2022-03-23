@@ -3,7 +3,7 @@ layout: post
 backLink: false
 ---
 
-<div class="grid h-screen grid-cols-10 grid-rows-4 font-sans bg-cover bg-center bg-fixed" style="background-image: url('https://images.unsplash.com/photo-1519681393784-d120267933ba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1124&q=100')">
+<div class="grid h-screen grid-cols-10 grid-rows-4 font-sans bg-cover bg-center" style="background-image: url('https://images.unsplash.com/photo-1519681393784-d120267933ba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1124&q=100')">
 
 <nav class="bg-transparent border-gray-200 px-8 sm:px-4 py-2.5 rounded dark:bg-gray-800 w-screen">
   <div class="container flex flex-wrap justify-between items-center mx-auto">
@@ -38,6 +38,7 @@ backLink: false
 </div>
 
 <div class="grid min-h-screen blue-blob text-gray-300 p-6 md:p-8 lg:p-16 place-content-evenly">
+  <p class="text-lg md:text-2xl lg:text-2xl font-bold text-center">Features</p>
   <div class="flex flex-col md:flex-row">
     <div class="card grid grid-rows-3 h-64 text-center m-4 p-4 md:p-4 lg:p-8 md:w-1/2">
       <p class="text-lg md:text-2xl lg:text-2xl font-bold">Hit Inbox-Zero </p>
@@ -57,7 +58,21 @@ backLink: false
       <p class="text-sm md:text-base lg:text-lg row-span-2">Correct thresholds and behavior of alert evolves over-time, Easily integrate your learnings into alerts to always be in sync with the system.</p>
     </div>
   </div>
+</div>
 
+<div class="relative flex flex-col min-h-screen bg-gray-900 text-gray-300 justify-center">
+  <div class="grid place-items-center mx-auto">
+  <p class="text-lg md:text-2xl lg:text-2xl font-bold text-center m-8">Free Tools</p>
+  <div class="flex justify-center bg-gradient-to-r from-transparent via-blue-400">
+    <div class="card grid grid-rows-3 h-80 text-center m-4 p-4 md:p-4 lg:p-8 md:w-1/2 place-items-center">
+      <p class="text-lg md:text-2xl lg:text-2xl font-bold">Alert Analyzer</p>
+      <p class="text-sm md:text-base lg:text-lg row-span-2">Breeze through alerts
+      without missing critical information using the <span class="font-bold">Aggregate View & Split
+      Inboxes</span></p>
+      <button type="button" class="text-white bg-gray-700 hover:bg-gray-900 focus:ring-2 focus:outline-none focus:ring-blue-500 font-medium rounded-lg text-sm px-5 py-2.5 text-center w-1/2">Try Now</button>
+    </div>
+  </div>
+  </div>
   <div class="grid text-center text-white font-extralight">
     <p> Crafted with &#10084; by <a href="https://shovel.company" target="_blank" class="underline text-purple-400"> Shovel.Company </a> </p>
   </div>
