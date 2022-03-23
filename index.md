@@ -7,11 +7,11 @@ backLink: false
 
 <nav class="bg-transparent border-gray-200 px-8 sm:px-4 py-2.5 rounded dark:bg-gray-800 w-screen">
   <div class="container flex flex-wrap justify-between items-center mx-auto">
-    <a href="https://odet.app" class="flex items-center">
+    <a href="#" class="flex items-center">
       <img src="/assets/odet_logo.svg" class="h-6 sm:h-9" alt="Odet Logo" />
     </a>
     <div class="flex md:order-2">
-      <button type="button" class="text-white bg-gray-700 hover:bg-gray-900 focus:ring-2 focus:outline-none focus:ring-blue-500 font-medium rounded-lg text-sm px-5 py-2.5 text-center md:mr-0">Get started</button>
+      <button type="button" class="text-white bg-gray-700 hover:bg-gray-900 focus:ring-2 focus:outline-none focus:ring-blue-500 font-medium rounded-lg text-sm px-5 py-2.5 text-center md:mr-0">Coming Soon</button>
     </div>
     <div class="hidden justify-between items-center w-full md:flex md:w-auto md:order-1" id="mobile-menu-4">
       <ul class="flex flex-col mt-4 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium">
@@ -19,7 +19,7 @@ backLink: false
           <a href="#" class="block py-2 pr-4 pl-3 text-white hover:text-blue-500 md:p-0 text-lg" aria-current="page">Home</a>
         </li>
         <li>
-          <a href="#" class="block py-2 pr-4 pl-3 text-white hover:text-blue-500 md:p-0 text-lg">Tools</a>
+          <a href="#tools" class="block py-2 pr-4 pl-3 text-white hover:text-blue-500 md:p-0 text-lg">Tools</a>
         </li>
       </ul>
   </div>
@@ -60,16 +60,16 @@ backLink: false
   </div>
 </div>
 
-<div class="relative flex flex-col min-h-screen bg-gray-900 text-gray-300 justify-center">
+<div id="tools" class="relative flex flex-col min-h-screen bg-gray-900 text-gray-300 justify-center">
   <div class="grid place-items-center mx-auto">
   <p class="text-lg md:text-2xl lg:text-2xl font-bold text-center m-8">Free Tools</p>
   <div class="flex justify-center bg-gradient-to-r from-transparent via-blue-400">
-    <div class="card grid grid-rows-3 h-80 text-center m-4 p-4 md:p-4 lg:p-8 md:w-1/2 place-items-center">
+    <div class="card grid grid-rows-4 h-80 text-center m-4 p-4 md:p-4 lg:p-8 md:w-2/3 place-items-center">
       <p class="text-lg md:text-2xl lg:text-2xl font-bold">Alert Analyzer</p>
-      <p class="text-sm md:text-base lg:text-lg row-span-2">Breeze through alerts
-      without missing critical information using the <span class="font-bold">Aggregate View & Split
-      Inboxes</span></p>
-      <button type="button" class="text-white bg-gray-700 hover:bg-gray-900 focus:ring-2 focus:outline-none focus:ring-blue-500 font-medium rounded-lg text-sm px-5 py-2.5 text-center w-1/2">Try Now</button>
+      <p class="text-sm md:text-base lg:text-lg row-span-2"><span
+      class="font-bold italic">Scale the Wall-of-Text</span><br>
+      Spot historical patterns, tech-debts & broken windows in the system.<br>Put the slack channel to work</p>
+      <button type="button" class="text-white bg-gray-700 hover:bg-gray-900 focus:ring-2 focus:outline-none focus:ring-blue-500 font-medium rounded-lg text-sm px-5 py-2.5 text-center w-1/2">Coming Soon</button>
     </div>
   </div>
   </div>

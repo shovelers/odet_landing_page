@@ -10,6 +10,10 @@
  * Extract Tailwind CSS components here according to the docs.
  * https://tailwindcss.com/docs/extracting-components/#extracting-css-components-with-apply
 */
+html {
+  scroll-behavior: smooth;
+}
+
 @layer components {
     .custom-underline-blue {
         @apply border-b-4 border-blue-400;
