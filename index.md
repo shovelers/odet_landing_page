@@ -38,7 +38,7 @@ backLink: false
   </div>
 </div>
 
-<div class="grid min-h-screen blue-blob text-gray-300 p-6 md:p-8 lg:p-16 place-content-evenly">
+<div class="grid min-h-screen blue-blob text-gray-300 p-6 md:p-20 lg:p-20 place-content-evenly">
   <p class="text-lg md:text-2xl lg:text-2xl font-bold text-center">Features</p>
   <div class="flex flex-col md:flex-row">
     <div class="card grid grid-rows-3 h-64 text-center m-4 p-4 md:p-4 lg:p-8 md:w-1/2">
@@ -55,8 +55,8 @@ backLink: false
 
   <div class="flex justify-center">
     <div class="card grid grid-rows-3 h-64 text-center m-4 p-4 md:p-4 lg:p-8 md:w-1/2">
-      <p class="text-lg md:text-2xl lg:text-2xl font-bold">Iterate to right balance </p>
-      <p class="text-sm md:text-base lg:text-lg row-span-2">Correct thresholds and behavior of alert evolve over-time, Easily integrate your learnings into alerts to always be in sync with the system</p>
+      <p class="text-lg md:text-2xl lg:text-2xl font-bold">Less Slack-ing More Coding</p>
+      <p class="text-sm md:text-base lg:text-lg row-span-2">Never get disturbed by things that don't need you. Ack, Mute, Reminders, Custom Tagging & Segregation to make the inbox behave the way you want.<span class="font-bold">ALWAYS</span></p>
     </div>
   </div>
 </div>
