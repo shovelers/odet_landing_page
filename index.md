@@ -39,23 +39,23 @@ backLink: false
 </div>
 
 <div class="grid min-h-screen blue-blob text-gray-300 p-6 md:p-20 lg:p-20 place-content-evenly">
-  <p class="text-lg md:text-2xl lg:text-2xl font-bold text-center">Features</p>
+  <p class="text-lg md:text-2xl lg:text-3xl font-semibold text-center">Features</p>
   <div class="flex flex-col md:flex-row">
     <div class="card grid grid-rows-3 h-64 text-center m-4 p-4 md:p-4 lg:p-8 md:w-1/2">
-      <p class="text-lg md:text-2xl lg:text-2xl font-bold">Hit Inbox-Zero </p>
+      <p class="text-lg md:text-2xl lg:text-3xl font-semibold">Hit Inbox-Zero </p>
       <p class="text-sm md:text-base lg:text-lg row-span-2">Breeze through alerts
       without missing critical information using the <span class="font-bold">Aggregate View & Split
       Inboxes</span></p>
     </div>
     <div class="card grid grid-rows-3 h-64 text-center m-4 p-4 md:p-4 lg:p-8 md:w-1/2">
-      <p class="text-lg md:text-2xl lg:text-2xl font-bold">Lightning Fast</p>
+      <p class="text-lg md:text-2xl lg:text-3xl font-semibold">Lightning Fast</p>
       <p class="text-sm md:text-base lg:text-lg row-span-2">Escape the cobweb of monitoring tools for alert management using <span class="font-bold">Intuitive Key bindings & In-Place Alert Modification</span> across tools</p>
     </div>
   </div>
 
   <div class="flex justify-center">
     <div class="card grid grid-rows-3 h-64 text-center m-4 p-4 md:p-4 lg:p-8 md:w-1/2">
-      <p class="text-lg md:text-2xl lg:text-2xl font-bold">Less Slack-ing More Coding</p>
+      <p class="text-lg md:text-2xl lg:text-3xl font-semibold">Zero Disturbance</p>
       <p class="text-sm md:text-base lg:text-lg row-span-2">Never get disturbed by things that don't need you. Ack, Mute, Reminders, Custom Tagging & Segregation to make the inbox behave the way you want.<span class="font-bold">ALWAYS</span></p>
     </div>
   </div>
