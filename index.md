@@ -38,6 +38,19 @@ backLink: false
   </div>
 </div>
 
+<div class="grid bg-gray-900 min-h-screen p-6 md:p-20">
+  <div class="card p-3 md:p-20 flex flex-col justify-center md:flex-row text-gray-300">
+    <div class="md:w-1/3 hidden md:grid place-content-evenly">
+      <img class="w-full object-contain" src="/assets/em_chat.png" alt="Man looking at item at a store">
+    </div>
+    <div class="w-full md:w-2/3 text-center p-4 flex flex-col justify-evenly">
+      <p class="text-lg md:text-2xl lg:text-3xl font-semibold">Alert Management is broken.</p>
+      <p>Monitoring systems (across infrastructure, application, performance, security & data) generate 1000s of alert notifications. These are funnelled to Slack or other communication tools to reach teams quickly - however, these tools are not built for alert management. There is a race against time each time a critical alert is triggered to ensure customer experience and business are not impacted significantly. Alerts with poor signal to noise ratio flood channels.</p>
+      <p>Slack simply doesn't cut it. <span class="font-bold text-lg">We need a better inbox.</span> One that recognizes alerts as first-class entitites, understands the inherent workflow for alert management. One that doesn't get in the way. One that I don't just mute to make my life better. One that understands and flexes to my need. So we are building Odet.</p>
+    </div>
+  </div>
+</div>
+
 <div class="grid min-h-screen blue-blob text-gray-300 p-6 md:p-20 lg:p-20 place-content-evenly">
   <p class="text-lg md:text-2xl lg:text-3xl font-semibold text-center">Features</p>
   <div class="flex flex-col md:flex-row">
@@ -64,9 +77,9 @@ backLink: false
 <div id="tools" class="relative flex flex-col min-h-screen bg-gray-900 text-gray-300 justify-center">
   <div class="grid place-items-center mx-auto">
   <p class="text-lg md:text-2xl lg:text-2xl font-bold text-center m-8">Free Tools</p>
-  <div class="flex justify-center bg-gradient-to-r from-transparent via-blue-400">
+  <div class="flex justify-center bg-gradient-to-r from-transparent via-purple-400">
     <div class="card grid grid-rows-4 h-80 text-center m-4 p-4 md:p-4 lg:p-8 md:w-2/3 place-items-center">
-      <p class="text-lg md:text-2xl lg:text-2xl font-bold">Alert Analyzer</p>
+      <p class="text-lg md:text-2xl lg:text-2xl font-bold">Fatigue Meter</p>
       <p class="text-sm md:text-base lg:text-lg row-span-2"><span
       class="font-bold italic">Scale the Wall-of-Text</span><br>
       Spot historical patterns, tech-debts & broken windows in the system.<br>Put the slack channel to work</p>
