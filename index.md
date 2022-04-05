@@ -48,7 +48,7 @@ backLink: false
       <p class="py-2">Monitoring systems (across infrastructure, application, performance, security & data) generate 1000s of alert notifications. These are funneled to Slack or other communication tools to reach teams. Response to alerts is time-critical to ensure customer experience and business are not impacted. Alerts with poor signal to noise ratio flood channels, resulting in poor comprehension,alert fatigue & degraded developer experience.</p>
       <p class="py-2">Slack doesn't cut it. <span class="font-bold text-lg">We need a better inbox.</span></p>
       <p>One that recognizes alerts as first-class entitites. One that understands the inherent workflow for alert management. One that doesn't get in the way. One that I don't mute to make my life better. One that understands and flexes to my need.</p>
-      <p>Hence, we are building <span class="font-bold">Odet</span>.</p>
+      <p class="py-2">Hence, we are building <span class="font-bold">Odet</span>.</p>
     </div>
   </div>
 </div>
