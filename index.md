@@ -45,7 +45,7 @@ backLink: false
     </div>
     <div class="w-full md:w-2/3 text-center p-4 flex flex-col justify-around">
       <p class="text-xl lg:text-3xl font-semibold">Alert Management is broken.</p>
-      <p class="py-2">Monitoring systems (across infrastructure, application, performance, security & data) generate 1000s of alert notifications. These are funnelled to Slack or other communication tools to reach teams quickly - however, these tools are not built for alert management. There is a race against time each time a critical alert is triggered to ensure customer experience and business are not impacted significantly. Alerts with poor signal to noise ratio flood channels.</p>
+      <p class="py-2">Monitoring systems (across infrastructure, application, performance, security & data) generate 1000s of alert notifications. These are funnelled to Slack or other communication tools to reach teams quickly. There is a race against time whenever a critical alert is triggered to ensure customer experience and business are not impacted significantly. Alerts with poor signal to noise ratio flood channels.</p>
       <p class="py-2">Slack simply doesn't cut it. <span class="font-bold text-lg">We need a better inbox.</span></p>
       <p>One that recognizes alerts as first-class entitites, understands the inherent workflow for alert management. One that doesn't get in the way. One that I don't just mute to make my life better. One that understands and flexes to my need. So we are building Odet.</p>
     </div>
@@ -70,7 +70,7 @@ backLink: false
   <div class="flex justify-center">
     <div class="card grid grid-rows-3 h-64 text-center m-4 p-4 md:p-4 lg:p-8 md:w-1/2">
       <p class="text-lg md:text-2xl lg:text-3xl font-semibold">Zero Disturbance</p>
-      <p class="text-sm md:text-base lg:text-lg row-span-2">Never get disturbed by things that don't need you. Ack, Mute, Reminders, Custom Tagging & Segregation to make the inbox behave the way you want.<span class="font-bold">ALWAYS</span></p>
+      <p class="text-sm md:text-base lg:text-lg row-span-2">Never get disturbed by alerts that don't need you. Ack, mute, set reminders, tag & filter to design an alert inbox that works for you. <span class="font-bold">ALWAYS.</span></p>
     </div>
   </div>
 </div>
