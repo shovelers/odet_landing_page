@@ -43,10 +43,11 @@ backLink: false
     <div class="md:w-1/3 hidden md:grid place-content-evenly">
       <img class="w-full object-contain" src="/assets/em_chat.png" alt="Man looking at item at a store">
     </div>
-    <div class="w-full md:w-2/3 text-center p-4 flex flex-col justify-evenly">
-      <p class="text-lg md:text-2xl lg:text-3xl font-semibold">Alert Management is broken.</p>
-      <p>Monitoring systems (across infrastructure, application, performance, security & data) generate 1000s of alert notifications. These are funnelled to Slack or other communication tools to reach teams quickly - however, these tools are not built for alert management. There is a race against time each time a critical alert is triggered to ensure customer experience and business are not impacted significantly. Alerts with poor signal to noise ratio flood channels.</p>
-      <p>Slack simply doesn't cut it. <span class="font-bold text-lg">We need a better inbox.</span> One that recognizes alerts as first-class entitites, understands the inherent workflow for alert management. One that doesn't get in the way. One that I don't just mute to make my life better. One that understands and flexes to my need. So we are building Odet.</p>
+    <div class="w-full md:w-2/3 text-center p-4 flex flex-col justify-around">
+      <p class="text-xl lg:text-3xl font-semibold">Alert Management is broken.</p>
+      <p class="py-2">Monitoring systems (across infrastructure, application, performance, security & data) generate 1000s of alert notifications. These are funnelled to Slack or other communication tools to reach teams quickly - however, these tools are not built for alert management. There is a race against time each time a critical alert is triggered to ensure customer experience and business are not impacted significantly. Alerts with poor signal to noise ratio flood channels.</p>
+      <p class="py-2">Slack simply doesn't cut it. <span class="font-bold text-lg">We need a better inbox.</span></p>
+      <p>One that recognizes alerts as first-class entitites, understands the inherent workflow for alert management. One that doesn't get in the way. One that I don't just mute to make my life better. One that understands and flexes to my need. So we are building Odet.</p>
     </div>
   </div>
 </div>
