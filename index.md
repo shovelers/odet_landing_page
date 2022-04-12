@@ -12,28 +12,7 @@ backLink: false
       <button type="button" class="text-white bg-gray-900 font-normal rounded-lg text-xs px-2 text-center md:mr-0 h-5 md:h-6">Alpha</button>
     </div>
     <div class="flex md:order-2">
-      <button type="button" class="text-white bg-gray-700 hover:bg-gray-900 focus:ring-2 focus:outline-none focus:ring-blue-500 font-medium rounded-lg text-sm px-5 py-2.5 text-center md:mr-0" data-modal-toggle="defaultModal">Signup for beta</button>
-
-      <!-- Main modal -->
-      <div id="defaultModal" tabindex="-1" aria-hidden="true" class="hidden overflow-y-auto overflow-x-hidden fixed top-0 right-0 left-0 z-50 w-full md:inset-0 h-modal md:h-full">
-        <div class="relative p-8 bg-gray-900 w-full max-w-2xl h-full md:h-auto">
-          <!-- Modal content -->
-          <div class="relative rounded-lg shadow dark:bg-gray-700">
-            <!-- Modal header -->
-            <div class="flex justify-between items-start rounded-t">
-                <button type="button" class="text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm p-1.5 ml-auto inline-flex items-center dark:hover:bg-gray-600 dark:hover:text-white" data-modal-toggle="defaultModal">
-                    <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
-                </button>
-            </div>
-            <div class="p-32 md:w-auto md:order-1" id="mobile-menu-4">
-              <form class="form flex flex-col gap-8 justify-between items-center" action="https://app.convertkit.com/forms/3174604/subscriptions" method="post" data-sv-form="3174604" data-uid="3ecf8fb6f9">
-                <input class="w-full text-center rounded-lg" type="email" value="" name="email_address" placeholder="Email Address" id="email" required>
-                <input type="submit" data-element="submit" class="subscribe" value="Signup" class="text-white bg-gray-700 hover:bg-gray-900 focus:ring-2 focus:outline-none focus:ring-blue-500 font-medium rounded-lg text-sm w-full py-3.5 text-center md:mr-0">
-              </form>
-            </div>
-          </div>
-        </div>
-      </div>
+      <button type="button" class="text-white bg-gray-700 hover:bg-gray-900 focus:ring-2 focus:outline-none focus:ring-blue-500 font-medium rounded-lg text-sm px-5 py-2.5 text-center md:mr-0">Coming Soon</button>
     </div>
     <div class="hidden justify-between items-center w-full md:flex md:w-auto md:order-1" id="mobile-menu-4">
       <ul class="flex flex-col mt-4 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium">
