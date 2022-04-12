@@ -79,7 +79,7 @@ backLink: false
 <div id="tools" class="flex flex-col h-screen md:max-h-screen text-gray-300 bg-gray-900 justify-center items-center p-4 md:p-20 antializased space-y-2">
   <p class="text-xl md:text-3xl text-gray-300  md:text-2xl font-semibold text-center">Free Tools</p>
   <div class="card w-full p-2 md:p-8 py-8 text-center space-y-2">
-    <div class="flex flex-col md:flex-row items-center">
+    <div class="flex flex-col md:flex-row items-center justify-between">
       <img class="md:w-1/2 object-contain" src="/assets/fatigue_meter_2.png" alt="fatigue_2">
       <div class="space-y-4">
         <p class="text-2xl md:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-500 via-tranparent to-blue-400">Fatigue Meter</p>
