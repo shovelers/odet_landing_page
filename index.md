@@ -81,11 +81,11 @@ backLink: false
   <div class="card w-full p-2 md:p-8 py-8 text-center space-y-2">
     <div class="flex flex-col md:flex-row items-center">
       <img class="md:w-1/2 object-contain" src="/assets/fatigue_meter_2.png" alt="fatigue_2">
-      <div class="space-y-2">
-    <p class="text-2xl md:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-500 via-tranparent to-blue-400">Fatigue Meter</p>
-        <p class="font-bold md:text-xl">Scale the wall of text</p>
-        <p class="md:text-lg">Measure Fatigue Level of your slack channel<br>Spot historical patterns, tech-debts & broken windows in the system.<br><span class="font-semibold italic">Put the slack channel to work</span></p>
-        <button type="button" class="text-white bg-gray-700 hover:bg-gray-900 focus:ring-2 focus:outline-none focus:ring-blue-500 font-medium rounded-lg text-sm px-5 py-2.5 text-center md:mr-0">Coming Soon</button>
+      <div class="space-y-4">
+        <p class="text-2xl md:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-500 via-tranparent to-blue-400">Fatigue Meter</p>
+        <p class="text-sm md:text-base"><span class="font-bold md:text-xl">Scale the wall of text</span><br>Measure Fatigue Level of your slack channel<br>Spot historical patterns, tech-debts & broken windows in the system.<br><span class="font-semibold italic">Put the slack channel to work</span></p>
+        <a href="https://slack.com/oauth/v2/authorize?client_id=1228755460243.3294491732801&scope=channels:history,channels:join,channels:read,team:read,users:read&user_scope=" type="button" class="text-white bg-blue-700 hover:bg-gray-800 focus:ring-2 focus:outline-none focus:ring-blue-500 font-medium rounded-lg text-sm px-5 py-2.5 text-center md:mr-0">Try Now</a>
+        <p class="text-xs font-extralight pt-2 md:pt-4">This will install a slackbot to the selected slack channel<br>to calculate the fatigue</p>
       </div>
       </div>
   </div>
